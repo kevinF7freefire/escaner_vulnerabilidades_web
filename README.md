@@ -21,7 +21,7 @@ Una vez instalado, puedes iniciar el escaneo con el siguiente comando:
 
 Bash
 psychic-engine --target https://ejemplo.com
-(O cambia psychic-engine por el comando real que use tu herramienta).
+(O cambia por el comando real que use tu herramienta).
 
 📋 Requisitos
 Kali Linux o cualquier distribución basada en Debian.
