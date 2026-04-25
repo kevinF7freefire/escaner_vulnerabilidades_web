@@ -1,2 +1,2 @@
-# psychic-engine
+# Ultrascan
 escaner_vulnerabilidades_web
